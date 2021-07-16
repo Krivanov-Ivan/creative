@@ -109,7 +109,7 @@ footer {display: flex; flex-wrap: wrap; justify-content: space-between; padding-
 .SM-icon:hover {background-color: #FFEAA7; cursor: pointer;}
 form {display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between;}
 .links-container {display: flex; justify-content: space-between; flex-wrap: wrap;}
-.column>.footer-link {display: block; margin-bottom: 1rem;}
+.column>.footer-link {display: block; margin-bottom: 1rem; color: #2D3436}
 .email {color: #6C5CE7; font-size: 2rem; margin-top: -1rem;}
 input[type=email]::placeholder, input[type=text]::placeholder, input:nth-child(2), input:first-child {color: #2D3436; font-size: 1rem; font-family: 'Inter', sans-serif;}
 input[type=email], input[type=text] {height: 3rem; border: none; outline: none; padding-left: 1rem; padding-right: 40px; background-repeat: no-repeat; background-position: right center; max-width: 270px; width: 47%;}
