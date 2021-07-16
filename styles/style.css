@@ -174,7 +174,7 @@ input[type=submit]:hover {cursor: pointer;}
     .grid-images>.sing-in {grid-column: 3/5; grid-row: 4; justify-self: start;}
     .window {display: none;}
     .process {display: block; grid-area: 3/2/5/3;}
-
+    .plan {margin-right: 0}
     .service {width: 40%; margin-bottom: 4rem;}
     .plan:nth-child(2)>.plan-data>.features>.feature:last-child {display: none;}
     .plan:first-child>.plan-data>.features>.feature:last-child {display: block;}
